@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Geysiane Lopes (101403935) - [GitHub](https://github.com/geysianeL)
-- **Member 2:** 
+- **Member 2: Gabriel Pais (101271055) - [GitHub](https://github.com/TheMithh)
 - **Member 3:** 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
