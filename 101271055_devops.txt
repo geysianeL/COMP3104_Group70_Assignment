@@ -1,0 +1,1 @@
+DevOps, as taught in COMP3104 at George Brown College, equips students with the skills to streamline software development through automation and collaboration. By mastering DevOps practices, students can enhance their ability to deliver high-quality projects efficiently, preparing them for success in the tech industry.
