@@ -1,0 +1,1 @@
+DevOps, as covered in COMP3104 at George Brown College, provides students with the tools to optimize software development through automation and teamwork. By learning DevOps methodologies, students can improve their capacity to deliver high-quality projects more efficiently, setting them up for success in the tech industry.
