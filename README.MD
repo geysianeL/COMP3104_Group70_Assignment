@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Geysiane Lopes (101403935) - [GitHub](https://github.com/geysianeL)
 - **Member 2: Gabriel Pais (101271055) - [GitHub](https://github.com/TheMithh)
-- **Member 3:** 
+- **Member 3:Hamzah Hafez (101429091) - [Github](https://github.com/Datadan82) 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
 collaborative Git workflows, branching strategies, and CI/CD integration.
